@@ -1,2 +1,2 @@
-# ignite-gym-api
+# Ignite Gym - API
 Trilha Ignite - React Native
